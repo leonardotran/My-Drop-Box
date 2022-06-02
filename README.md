@@ -20,3 +20,11 @@ The client will be written in **Golang** and will allow users to take the follow
 6. Share saved files with other users; and
 
 7. Revoke access to previously shared files.
+
+
+Outcome: **Top 5%** submission of the class (+1 SD above the mean) 
+
+What if we have more time?: 
+- Add more security edge test cases 
+- Increase efficiency 
+- Fix revocation bugs. 
