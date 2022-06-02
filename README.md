@@ -2,7 +2,7 @@
 
 ## Due to class's policy, I cannot public the code. Please reachout privately at [leonardotran2108@gmail.com]
 
-In this project, I will apply the cryptographic primitives introduced in class to design and implement the client application for a secure file sharing system. 
+In this project, I will apply the cryptographic primitives introduced in class to design and implement the client application for a secure file sharing system from scratch. 
 Imagine something similar to Dropbox, but **secured with cryptography** so that the server cannot view or tamper with our data.
 
 The client will be written in **Golang** and will allow users to take the following actions:
